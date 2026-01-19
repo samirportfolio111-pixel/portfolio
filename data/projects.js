@@ -1,6 +1,6 @@
 export const projects = [
   {
-    slug: "company-a",
+    slug: "company-e",
     cover: "cover-page",
     company: "Tremont Luggage Brand - Investor Pitch Deck",
     description:"",     
@@ -18,6 +18,20 @@ export const projects = [
     ],
   },
  
+  {
+    slug: "company-a",
+    cover: "maia-cover",
+    company: "Maia Care Brochure",
+    description:"",     
+    category: "brochure",
+    items: [
+      { img: "maia-01" },
+      { img: "maia-02" },
+      
+      
+    ],
+  },
+
  {
     slug: "company-b",
     cover: "gg-01",
@@ -56,4 +70,5 @@ export const projects = [
       
     ],
   },
+  
 ];
