@@ -1,7 +1,7 @@
 export const projects = [
   {
     slug: "company-a",
-    cover: "cover page",
+    cover: "cover-page",
     company: "Tremont Luggage Brand - Investor Pitch Deck",
     description:"",     
     category: "Pitch Deck Presentation",
@@ -20,13 +20,13 @@ export const projects = [
  
  {
     slug: "company-b",
-    cover: "gg 01",
+    cover: "gg-01",
     company: "Gadigoda Cab Service",
     description:"",     
     category: "id cards",
     items: [
-      { img: "gg 02" },
-      { img: "gg 03" },
+      { img: "gg-02" },
+      { img: "gg-03" },
       
     ],
   },
