@@ -39,6 +39,7 @@ const ProjectMasonryIsotop = () => {
                 { name: "Business Card", value: "business card" },
                 { name: "Catalogue", value: "catalogue" },
                 { name: "Brochure", value: "brochure" },
+                { name: "Standee", value: "standee" },
               ].map((btn) => (
                 <button
                   key={btn.value}

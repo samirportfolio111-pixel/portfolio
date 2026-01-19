@@ -70,5 +70,16 @@ export const projects = [
       
     ],
   },
+   {
+    slug: "company-f",
+    cover: "ggstandee-cover",
+    company: "Standee Design For Gadigoda",
+    description:"",     
+    category: "standee",
+    items: [
+      { img: "ggstandee-01" },
+      
+    ],
+  },
   
 ];
